@@ -1,10 +1,13 @@
 ## Hi there 👋
 
+> Our whole life is about discovering our own potential.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pentergust&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+I participate in the development of **[Salormoon](https://codeberg.org/Salormoon)** projects.
+And here I also support your projects.
+
 <!--
-**pentergust/pentergust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
