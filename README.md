@@ -1,14 +1,17 @@
-## Hi there 👋
+## Hi fuzzies 👀
 
-> Our whole life is about discovering our own potential.
+> The essence of life is to reach your potential.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pentergust&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-I participate in the development of **[Salormoon](https://codeberg.org/Salormoon)** projects.
+❤️ I love anime, strawberries and everything fluffy.
+
+✨ I’m currently working on my life!
+
+🍓 I participate in the development of **[Salormoon](https://codeberg.org/Salormoon)** projects.
 And here I also support your projects.
 
 <!--
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
